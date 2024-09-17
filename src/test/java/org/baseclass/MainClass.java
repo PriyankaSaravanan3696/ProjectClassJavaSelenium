@@ -64,7 +64,9 @@ public class MainClass extends BaseClass {
 		
 		String attribute = getAttribute(r.getOrderno());
 		System.out.println(attribute);
-	    System.out.println("A");
+		 System.out.println("A");
+		System.out.println("B");
+
 		
 		
 	}
